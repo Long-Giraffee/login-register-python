@@ -1,4 +1,4 @@
-  # Understand the code
+  # Understanding the code
   
   The code is written in python using the tkinter module including a database integration. The program works on the basis of what function the user calls. 
   
